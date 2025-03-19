@@ -1,5 +1,6 @@
 # vue-project
 
+![alt text](6597e1214b6ef07ce243cfe007ac106.png)
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
